@@ -16,3 +16,6 @@ Here are some tips to get you more information:
 - PHP, Mysql, MariaDB, PhpMyAdmin, Docker 
 - HTML, Twig, Smarty, Blade
 - CSS, Javascript, Jquey
+
+## Qualification
+- I'm an Engineer of IT majoring in Coding from a technical university.
