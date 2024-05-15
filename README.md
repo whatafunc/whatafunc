@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a PHP Web Developer
+I'm a PHP/GO Web Developer
 
 Here are some tips to get you more information:
 - 🔭 I’m currently working at [Elegant XMods](https://elegantxmods.com/) and [CozyMods](https://cozymods.com/)
@@ -13,9 +13,12 @@ Here are some tips to get you more information:
 [![trophy](https://github-profile-trophy.vercel.app/?username=whatafunc)](https://github.com/whatafunc/)
 
 ## My tech stack
-- PHP, Mysql, MariaDB, PhpMyAdmin, Docker 
+- PHP, GO, Mysql, MariaDB, PhpMyAdmin, Docker 
 - HTML, Twig, Smarty, Blade
 - CSS, Javascript, Jquey
 
 ## Qualification
 - I'm an Engineer of IT majoring in Coding from a technical university.
+
+## Specialization
+- Backend coding for web apps
