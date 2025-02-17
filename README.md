@@ -13,7 +13,7 @@ Here are some tips to get you more information:
 [![trophy](https://github-profile-trophy.vercel.app/?username=whatafunc)](https://github.com/whatafunc/)
 
 ## My tech stack
-- PHP, GO, Mysql, MariaDB, PhpMyAdmin, Docker 
+- [PHP, GO](https://gist.github.com/whatafunc/5304f6affce05772d71c514c26f2b95c), Mysql, MariaDB, PhpMyAdmin, Docker 
 - HTML, Twig, Smarty, Blade
 - CSS, Javascript, Jquey
 
