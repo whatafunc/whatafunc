@@ -4,9 +4,14 @@ I'm a PHP/GO Web Developer
 Here are some tips to get you more information:
 - 🔭 I’m currently working at [Elegant XMods](https://elegantxmods.com/) and [CozyMods](https://cozymods.com/)
 - 🌱 I’m currently concentrated on the use of new PHP features and using Golang in my projects more frequently
-- 👯 I’m looking to collaborate on Symfony and it's Doctrine ORM
-- 🤔 I’m looking for help with my projects & ready to help with your PHP project even if it's got some legacy code (examples: PHP 5.6 code update or rewriting to PHP 8.x, Golang 1.15 to Golang 1.22)
-- 💬 Ask me about going online most efficiently. I am happy to discuss WP, MODX, Opencart, Drupal & X-cart addons, Golang backend features & parsers such as Colly, etc..
+- 👯 I’m looking to collaborate on opensource projects and here are my Recent  🔨 Contributions:
+      -   [Added API response param use instead of hardcoded value of price to `partner_documents_generator`](https://github.com/whatafunc/partner_documents_generator/pull/1)  
+      -   [PR #2 in Go `port-service`](https://github.com/evt/port-service/pull/2): Fixed a bug in unnecessary os.Exit(0) since log.Fatal exited
+      -   [improved PHP 8 code to meet PSR standards and added Docker containerization to `PHP-Calculator`](https://github.com/sspangsberg/PHP-Calculator/pull/3)  
+
+- 💬 Ask me about going online most efficiently. I am happy to discuss:
+      -  PHP use for WP, MODX, Opencart, Drupal & X-cart addons;
+      -  Golang backend features & parsers such as Go Colly, Echo, Gin, etc..
 - 📫 How to reach me: just message me on [Telegram](https://telegram.im/@whatafunc) or email to [Gmail](mailto:elektrolove40@gmail.com)
 - ⚡ Fun fact: I was struggling to start solving problems on Leetcode but [it's getting better, I do not mind if you evaluate my progress](https://leetcode.com/u/lIAeTF1SBo/). Seriously, can create some basic frontend apps & UI using just HTML/CSS, Android Flutter, iOS Swift  
 - ! Github activity is not fully public but here is some stat if you are interested:
