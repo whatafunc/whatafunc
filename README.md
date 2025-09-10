@@ -12,7 +12,7 @@ Here are some tips to get you more information:
 -   [improved PHP 8 code to meet PSR standards and added Docker containerization to `PHP-Calculator`](https://github.com/sspangsberg/PHP-Calculator/pull/3)  
 ### Ask me about going online most efficiently. I am happy to discuss:
 -  PHP use for WP, MODX, Opencart, Drupal & X-cart addons;
--  Golang backend features & parsers such as Go Colly, Echo, Gin, etc..
+-  Golang backend power and efficiancy for building microservices, APIs, www parsers using Go Colly, etc.. 
 
 ### 📫 How to reach me: 
 - just message me on [Telegram](https://telegram.im/@whatafunc) 
@@ -28,7 +28,8 @@ Here are some tips to get you more information:
 - CSS, Javascript, Jquey
 
 ## Qualification
-- I'm an Engineer of IT majoring in Coding from a technical university.
+- Engineer of IT majoring in Coding from a technical university.
+- DevOps specialist in CI/CD, Cloud Computing, Containerization & Orchestration
 
 ## Specialization
 - Backend coding for web apps
