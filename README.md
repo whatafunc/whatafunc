@@ -6,6 +6,7 @@ Here are some tips to get you more information:
 - 🌱 I’m currently concentrated on the use of new PHP features and using Golang in my projects more frequently
 
 ### Recent 🔨 Contributions:
+-   [Mastering Golang REST API with net/http]([https://github.com/whatafunc/partner_documents_generator/pull/1](https://github.com/whatafunc/Golang_Otus_Labs/pull/12));
 -   [Added API response param use instead of hardcoded value of price to `partner_documents_generator`](https://github.com/whatafunc/partner_documents_generator/pull/1);
 -   [PR #2 in Go `port-service`](https://github.com/evt/port-service/pull/2): Fixed a bug in unnecessary os.Exit(0) since log.Fatal exited;
 -   [improved PHP 8 code to meet PSR standards and added Docker containerization to `PHP-Calculator`](https://github.com/sspangsberg/PHP-Calculator/pull/3)  
